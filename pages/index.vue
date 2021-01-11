@@ -1,19 +1,14 @@
 <template>
   <div>
-    <!-- <div>
-      <h1 class="title">Nuxt.js + Vuesax</h1>
-      <Button class="btn-primary">Primary</Button>
-      <Button class="btn-secondary">Secondary</Button>
-      <Button class="btn-tertiary">Tertiary</Button>
-    </div> -->
+    <Showcase />
   </div>
 </template>
 
 <script>
-// import Button from '~/components/common/Button.vue'
+import Showcase from '~/components/common/Showcase.vue'
 
 export default {
-  components: {},
+  components: { Showcase },
 }
 </script>
 

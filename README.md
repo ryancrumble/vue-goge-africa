@@ -1,5 +1,8 @@
 # vue-goge-africa
 
+Frontend web app built with Nuxt.js, Typescript and Tailwindcss.
+Web template based on design by [Cr8tive Yemmy](https://www.behance.net/gallery/87261153/E-learning-UI-Kit-Free-Download).
+
 ## Build Setup
 
 ```bash

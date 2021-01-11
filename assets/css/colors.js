@@ -12,8 +12,6 @@ const baseColors = {
   lorange: '#FFC000',
   yeetusMyFeetus: '#ffedb8',
   sushiRice: '#fff7df',
-  // reggaeOrange: '#ffa033',
-  // springsFall: '#cc6d00',
 }
 
 const colors = {

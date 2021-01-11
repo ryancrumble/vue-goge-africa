@@ -78,7 +78,7 @@ export default Vue.extend({
   }
 }
 
-.Navbar_actions {
+.Navbar__actions {
   @apply pr-4 flex items-center justify-between;
 }
 </style>

@@ -6,21 +6,10 @@
 
 <script lang="ts">
 import Vue from 'vue'
-export default Vue.extend({
-  name: 'Button',
-  props: {},
-  data() {
-    return {}
-  },
-  watch: {},
-  methods: {},
-})
+export default Vue.extend({ name: 'Button' })
 </script>
 
 <style lang="postcss" scoped>
-.container {
-}
-
 .btn {
   @apply h-14 w-40 font-sans rounded-full py-3 px-4 mx-1 cursor-pointer outline-none text-sm whitespace-nowrap;
   box-shadow: 0px 12px 35px rgba(160, 121, 0, 0.2);
